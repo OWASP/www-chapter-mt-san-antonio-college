@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Paul Chiu](mailto:paul.chiu@owasp.org)
+* [Monica Gonzalez Flores](mailto:monica.gonzalezflores@owasp.org)
